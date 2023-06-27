@@ -1,5 +1,5 @@
 import React from "react";
-import { Container } from "../../styles/style-geral";
+import { Container } from "../../styles/style";
 import { Banner } from "./style";
 
 export default function Settings() {

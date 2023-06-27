@@ -5,9 +5,7 @@ const ContainerPrincipal = styled.SafeAreaView`
   margin-top: 10px;
 `;
 
-const FlatListProdutos = styled.FlatList`
-  /* Aqui coloco meu codigo */
-`;
+const FlatListProdutos = styled.FlatList``;
 
 const ItemProduto = styled.Text`
   padding: 25px;

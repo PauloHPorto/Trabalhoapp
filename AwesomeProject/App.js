@@ -29,7 +29,7 @@ const StackNavigate = () => {
         options={{
           title: "",
           headerStyle: {
-            backgroundColor: "#FF5722",
+            backgroundColor: "A3D9C9",
           },
         }}
       />
@@ -73,16 +73,8 @@ export default function App() {
   return (
     <NavigationContainer>
       <StackNavigate></StackNavigate>
-      {/* <TabNavigate></TabNavigate> */}
     </NavigationContainer>
   );
 }
 
-const styles = StyleSheet.create({
-  // container: {
-  //   flex: 1,
-  //   backgroundColor: '#fff',
-  //   alignItems: 'center',
-  //   justifyContent: 'center',
-  // },
-});
+const styles = StyleSheet.create({});
